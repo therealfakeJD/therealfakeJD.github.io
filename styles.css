@@ -7,7 +7,9 @@ font-family: sans-serif;
 color: #0000FF;
 }
 
-
+#color {
+	color: gray;
+}
 header {
 	  color: gray;
       overflow: clear;
@@ -19,6 +21,7 @@ header {
       font-weight: 700;
       margin: 0 0 10px;
       text-align: center;
+      color: white;
     }
     button {
       position: absolute;
