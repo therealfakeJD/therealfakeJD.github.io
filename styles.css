@@ -7,9 +7,7 @@ font-family: sans-serif;
 color: #0000FF;
 }
 
-#colorHead {
-	color: gray;
-}
+
 header {
 	  color: gray;
       overflow: clear;
@@ -41,7 +39,7 @@ table {
       color: #222;
       font-family: 'PT Sans', sans-serif;
       font-size: 13px;
-      width: 100%;
+      width: 60%;
     }
 td {
  	border: 1px solid #ccc;
@@ -50,7 +48,7 @@ td {
     text-align: center;
 }
 tr:first-child td {
-    color: #222;
+    color: gray;
     font-weight: 700;
 }
 
