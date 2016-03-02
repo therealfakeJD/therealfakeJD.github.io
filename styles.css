@@ -10,7 +10,7 @@ color: #0000FF;
 
 header {
 	  color: gray;
-      overflow: clear;
+      overflow: visible;
       position: relative;
     }
     h2 {
@@ -39,7 +39,7 @@ table {
       color: #222;
       font-family: 'PT Sans', sans-serif;
       font-size: 13px;
-      width: 60%;
+      width: 100%;
     }
 td {
  	border: 1px solid #ccc;
